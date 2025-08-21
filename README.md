@@ -1,5 +1,5 @@
 # Uncharted
-fazendo um site sobre uncharted com fins educacionais
+https://delfos.net.br/uncharted-4-de-cabeca-fria/
 ## 📄 Declaração de Uso de Imagem
 
 As imagens utilizadas neste projeto referem-se a jogos eletrônicos desenvolvidos exclusivamente pelos estudantes para fins educacionais. O uso, reprodução e exibição dessas imagens estão autorizados pelos próprios autores, com finalidade restrita ao ambiente escolar e acadêmico.
